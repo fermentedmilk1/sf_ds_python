@@ -25,8 +25,22 @@ def score_game(random_predict) -> int:
     """using how many attempts will computer guess the number
 
     Args:
-        random_predict ([type]): [description]
+        random_predict ([type]): guessing function
 
     Returns:
-        int: [description]
+        int: mean of try counts
     """
+    count_ls = [] # список для сохранения количества попыток
+    np.random.seed(1) # фиксируем сид для воcпроизводимости
+    random_array = np.random.randint(1, 101, size=(1000)) # загадали список чисел
+
+    for number in random_array:
+        count_ls.append(random_predict(number))
+
+    score = int(np.mean(count_ls)) # находим среднее количество попыток
+
+    print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
+    return(score)
+
+# RUN
+score_game(random_predict)
