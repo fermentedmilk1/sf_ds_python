@@ -14,21 +14,48 @@
 [6. Summary](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#summary)
 
 ### Project description
-game to guess a number 
+game to guess a number given by computer using minimum amount of tries
 
-[go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
 
 ### Objective
-[go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+to make a game that would guess a number 
+
+**Conditions**
+- computer gives a random number from 1 to 100
+- we have to write a programm that would guess it
+- the algorithm should know if the guessed number is bigger or smaller
+
+**Quality metrics**
+
+Mean amount of tries for 1000 repeats
+
+**What do we practice**
+
+How to write a good code on python
+
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
 
 ### Data
-[go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+
+n/a
+
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
 
 ### Steps
-[go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
 
-### Results
-[go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+n/a
+
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+
+### Results 
+
+n/a
+
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
 
 ### Summary
-[go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+
+n/a
+
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
