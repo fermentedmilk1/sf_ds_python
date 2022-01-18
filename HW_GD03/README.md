@@ -1,22 +1,22 @@
 # Homework GD3: analyze Quiz Freeze 
 
 ## Outline
-[1. Project description](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD3/README.md#project-description)
+[1. Project description](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#project-description)
 
-[2. What is the objective?](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD3/README.md#objective)
+[2. What is the objective?](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#objective)
 
-[3. Info about data](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD3/README.md#data)
+[3. Info about data](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#data)
 
-[4. Work steps](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD3/README.md#steps)
+[4. Work steps](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#steps)
 
-[5. Results](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD3/README.md#results)
+[5. Results](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#results)
 
-[6. Summary](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD3/README.md#summary)
+[6. Summary](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#summary)
 
 ### Project description
 game to guess a number given by computer using minimum amount of tries
 
-[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD3/README.md#outline)
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#outline)
 
 ### Цель
 Исследовать поведение пользователей в обновлённом приложении.
@@ -45,7 +45,7 @@ game to guess a number given by computer using minimum amount of tries
 5. выбор пакетов вопросов
 6. покупка платных вопросов
 
-[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#outline)
 
 ### Данные
 
@@ -68,22 +68,22 @@ game to guess a number given by computer using minimum amount of tries
  - **event_datetime** дата и время события/покупки
  - **amount** сумма оплаты
 
-[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#outline)
 
 ### Шаги
 
 1. **Проверка данных на целостность**
 
-[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#outline)
 
 ### Results 
 
 n/a
 
-[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#outline)
 
 ### Summary
 
 n/a
 
-[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/Project_0/README.md#outline)
+[&#8593; go to outline](https://github.com/fermentedmilk1/sf_ds_python/blob/main/HW_GD03/README.md#outline)
